@@ -1,0 +1,12 @@
+name: triangulationSim
+title: triangulationSim
+username:
+account: davidsbutcher
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3673927
+bundleId: 4253318
+url: https://davidsbutcher.shinyapps.io/triangulationSim/
+when: 1613940784.05371
+asMultiple: FALSE
+asStatic: FALSE
